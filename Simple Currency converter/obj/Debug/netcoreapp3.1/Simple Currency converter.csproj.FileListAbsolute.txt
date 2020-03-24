@@ -1,0 +1,11 @@
+C:\Users\VladimirK\source\repos\SImple Code\Simple Currency converter\bin\Debug\netcoreapp3.1\Simple Currency converter.exe
+C:\Users\VladimirK\source\repos\SImple Code\Simple Currency converter\bin\Debug\netcoreapp3.1\Simple Currency converter.deps.json
+C:\Users\VladimirK\source\repos\SImple Code\Simple Currency converter\bin\Debug\netcoreapp3.1\Simple Currency converter.runtimeconfig.json
+C:\Users\VladimirK\source\repos\SImple Code\Simple Currency converter\bin\Debug\netcoreapp3.1\Simple Currency converter.runtimeconfig.dev.json
+C:\Users\VladimirK\source\repos\SImple Code\Simple Currency converter\bin\Debug\netcoreapp3.1\Simple Currency converter.dll
+C:\Users\VladimirK\source\repos\SImple Code\Simple Currency converter\bin\Debug\netcoreapp3.1\Simple Currency converter.pdb
+C:\Users\VladimirK\source\repos\SImple Code\Simple Currency converter\obj\Debug\netcoreapp3.1\Simple Currency converter.AssemblyInfoInputs.cache
+C:\Users\VladimirK\source\repos\SImple Code\Simple Currency converter\obj\Debug\netcoreapp3.1\Simple Currency converter.AssemblyInfo.cs
+C:\Users\VladimirK\source\repos\SImple Code\Simple Currency converter\obj\Debug\netcoreapp3.1\Simple Currency converter.dll
+C:\Users\VladimirK\source\repos\SImple Code\Simple Currency converter\obj\Debug\netcoreapp3.1\Simple Currency converter.pdb
+C:\Users\VladimirK\source\repos\SImple Code\Simple Currency converter\obj\Debug\netcoreapp3.1\Simple Currency converter.csprojAssemblyReference.cache
