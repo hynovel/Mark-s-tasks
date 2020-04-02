@@ -1,27 +1,43 @@
-﻿using System;
+using System;
 
 namespace Mark_s_tasks
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
-        {
-            int value = 100, number = 0;
-            while (value > number)
+            public static void Main (string[] args)
             {
-                number = number + 1;
+               int value = 100, number = 0;
+                while (value > number)
+                {
+                    number = number + 1;
 
-                if (number % 5 == 0 && number % 3 == 0)
-                    Console.WriteLine("FizzBuzz");
-                else if (number % 5 == 0)
-                    Console.WriteLine("Buzz");
-                else if (number % 3 == 0)
-                    Console.WriteLine("Fizz");
-                else
-                    Console.WriteLine(number);
+                Console.WriteLine(Calculate(number));
+                }
             }
+
+        public static string Calculate(int number)
+        {
+            if (number % 5 == 0 && number % 3 == 0)
+                return "FizzBuzz";
+            else if (number % 5 == 0)
+                return "Buzz";
+            else if (number % 3 == 0)
+                return "Fizz";
+            else
+                return number.ToString();
         }
+
+
+        
+        
+        
+        
             
+        
+                    
+    }
+}
+
             
         
         
